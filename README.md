@@ -6,3 +6,4 @@ Iowa House Prices - pulled from Kaggle 12/18/18, author: Nick Taylor, https://ww
 
 Advertising - pulled from Kaggle 12/18/18, author: fayomi, https://www.kaggle.com/fayomi <br>
 
+Titanic - pulled from Kaggle 12/18/18, https://www.kaggle.com/c/titanic/data <br>
