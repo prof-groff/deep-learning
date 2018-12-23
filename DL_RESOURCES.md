@@ -30,3 +30,21 @@ Google Cloud allows you to set up and run computer instances in a similar fashio
 http://notebooks.azure.com
 
 Microsoft's Azure service also allows user to create cloud compute instances. But, Azure also offers free online Jupyter Notebooks. This is a great service but has been somewhat resource contrained in the past. 
+
+## Online Learning Resources
+
+The Unreasonable Effectiveness of Recurrent Neural Network
+Andrej Karpathy
+http://karpathy.github.io/2015/05/21/rnn-effectiveness
+
+Deep Learning: An MIT Press Book
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+http://www.deeplearningbook.org
+
+Neural Network and Deep Learning
+Michael Nielson
+http://neuralnetworksanddeeplearning.com/index.html
+
+How to Build a Simple Image Recognition System with TensorFlow (Part 1)
+Wolfgang Beyer
+https://www.wolfib.com/Image-Recognition-Intro-Part-1
