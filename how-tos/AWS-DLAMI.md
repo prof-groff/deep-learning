@@ -6,7 +6,7 @@
 
 Go to https://aws.amazon.com to sign up. This account can be linked with an existing Amazon account.
 
-#### 2) Optional: Join AWS Educate
+### 2) Optional: Join AWS Educate
 
 Go to https://aws.amazon.com/education/awseducate to sign up for an educator account to earn free credits to apply to your AWS account. During the application process you must specify a class you plan to use AWS in. If you don’t have a specific class in mind then pick a class for which you could explore the use of AWS. Once your application is approved you will get an email with a promo code that you can enter into your AWS billing console for a $40 credit. Note that the email address you use to sign up for AWS Educate must be your official school email address but you can use a different email address with AWS. 
 
