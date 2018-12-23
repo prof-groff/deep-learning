@@ -1,4 +1,4 @@
-# deep-learning
+# Deep Learning
 Resources for teaching and learning about neural networks.
 
 ## About Data
