@@ -41,8 +41,8 @@ Deep Learning: An MIT Press Book<br>
 Ian Goodfellow, Yoshua Bengio, and Aaron Courville<br>
 http://www.deeplearningbook.org
 
-Neural Network and Deep Learning
-Michael Nielson
+Neural Network and Deep Learning<br>
+Michael Nielson<br>
 http://neuralnetworksanddeeplearning.com/index.html
 
 How to Build a Simple Image Recognition System with TensorFlow (Part 1)<br>
