@@ -33,18 +33,18 @@ Microsoft's Azure service also allows user to create cloud compute instances. Bu
 
 ## Online Learning Resources
 
-The Unreasonable Effectiveness of Recurrent Neural Network
-Andrej Karpathy
+The Unreasonable Effectiveness of Recurrent Neural Network<br>
+Andrej Karpathy<br>
 http://karpathy.github.io/2015/05/21/rnn-effectiveness
 
-Deep Learning: An MIT Press Book
-Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+Deep Learning: An MIT Press Book<br>
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville<br>
 http://www.deeplearningbook.org
 
 Neural Network and Deep Learning
 Michael Nielson
 http://neuralnetworksanddeeplearning.com/index.html
 
-How to Build a Simple Image Recognition System with TensorFlow (Part 1)
-Wolfgang Beyer
+How to Build a Simple Image Recognition System with TensorFlow (Part 1)<br>
+Wolfgang Beyer<br>
 https://www.wolfib.com/Image-Recognition-Intro-Part-1
