@@ -30,6 +30,6 @@ Select the radio button for <code>SSH</code> under <code>Connection type:</code>
 
 Navigate to the Category > Connection > SSH > Tunnels window and set up port forwarding on port 8888 to allow Jupyter Notebook connections. In the <code>Source port</code> box enter 8888 and in the <code>Destination</code> box enter 127.0.0.1:8888 then click the <code>Add</code> button. 
 
-To save the configuration for future use navigate back to Category > Sessions and enter a name in teh <code>Saved Sessions</coe> box and then click the <code>Save</code> button. When returning to PuTTY later you can select this saved session and <code>Load</code> it. Click the <code>Open</code> button to launch a connection with the instance. 
+To save the configuration for future use navigate back to Category > Sessions and enter a name in teh <code>Saved Sessions</code> box and then click the <code>Save</code> button. When returning to PuTTY later you can select this saved session and <code>Load</code> it. Click the <code>Open</code> button to launch a connection with the instance. 
  
 
