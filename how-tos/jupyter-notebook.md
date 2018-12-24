@@ -1,4 +1,4 @@
-### Installing Jupyter Notebook
+### Installing and Running Jupyter Notebook
 
 It is possible that Jupyter Notebook is not installed by default on the AWS DLAMI image. Installation is easy. Once you SSH into the instance using a terminal or PuTTY install it for both python2 and python3 with the following commands:
 
