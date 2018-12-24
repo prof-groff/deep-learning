@@ -31,6 +31,12 @@ http://notebooks.azure.com
 
 Microsoft's Azure service also allows user to create cloud compute instances. But, Azure also offers free online Jupyter Notebooks. This is a great service but has been somewhat resource contrained in the past. 
 
+## Keras Examples
+
+https://github.com/keras-team/keras/tree/master/examples
+
+Python scripts showing examples of various deep learning models inplemented in Keras including vision models, text models, and generative models. 
+
 ## Online Learning Resources
 
 The Unreasonable Effectiveness of Recurrent Neural Network<br>
