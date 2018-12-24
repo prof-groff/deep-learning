@@ -18,7 +18,7 @@ https://www.putty.org
 
 ### Converting AWS Key
 
-Next, you must convert the \*.pem key file associaed with your instance into a \*.ppk formate that PuTTY understands using PuTTYgen, a tool installed with PuTTY. Open PuTTYgen and select RSA as the type of key to generate. Then select load and navigate to your \*.pem file. You might have to change the file extension filter to show files with all extensions. Open your \*.pem file and save it as a \*.ppk file dismissing warnings about saving the key without a passphrase (or add a passphrase if you like but this makes the login process more cumbersome).
+Next, you must convert the \*.pem key file associaed with your instance into a \*.ppk formate that PuTTY understands using PuTTYgen, a tool installed with PuTTY. Open PuTTYgen and select RSA as the type of key to generate. Then select <code>Load</code> and navigate to your \*.pem file. You might have to change the file extension filter to show files with all extensions. Open your \*.pem file and click <code>Save private key</code> and save it as a \*.ppk file dismissing warnings about saving the key without a passphrase (or add a passphrase if you like but this makes the login process more cumbersome).
 
 ### Setting up PuTTY
 
