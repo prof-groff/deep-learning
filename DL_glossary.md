@@ -39,4 +39,4 @@ The parameters of an ANN that are tuned by the user, and not optimized by part o
 The process of optimizing ANN model parameters via gradient descent. The data is often divided into three sets, one for training, one for validation during the training process, and one for testing after training. It is important to segregate the testing data from the training data to accurately assess the model performance.
 
 ### Overfitting
-The phenomenon of a ANN memorizing the training data so that it exhibits good accuracy this data but poor accuracy on testing data. In other words, the model fails to generalize to new data.
+The phenomenon of a ANN memorizing the training data so that it exhibits good accuracy on this data but poor accuracy on testing data. In other words, the model fails to generalize to new data.
