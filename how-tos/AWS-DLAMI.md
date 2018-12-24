@@ -12,7 +12,7 @@ Go to https://aws.amazon.com/education/awseducate to sign up for an educator acc
 
 ### 3) Request Use of a GPU
 
-Log into Amazon Web Services at https://aws.amazon.com and navigate to Services > Compute > EC2 > Limits and request an increase in instance limits to allow you to use an instance with a GPU attached to it. Two recommended instance classes are g2.2xlarge (currently $0.7/hr) or g3.2xlarge (much more powerful GPU but $3/hr). It may take a day for your request to be approved.
+Log into Amazon Web Services at https://aws.amazon.com and navigate to Services > Compute > EC2 > Limits and request an increase in instance limits to allow you to use an instance with a GPU attached to it. Two recommended instance classes are g2.2xlarge (currently $0.7/hr) or p3.2xlarge (much more powerful GPU but $3/hr). It may take a day for your request to be approved.
 
 ### 4) Create a New Instance
 
