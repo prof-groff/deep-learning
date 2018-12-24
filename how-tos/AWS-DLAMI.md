@@ -16,12 +16,12 @@ Log into Amazon Web Services at https://aws.amazon.com and navigate to Services 
 
 ### 4) Create a New Instance
 
-Log into AWS at https://aws.amazon.com and navigate to Services > Compute > EC2 and click on the Launch Instance button. Select the AMS Marketplace option and search for Deep Learning AMI (or DLAMI). Select on of the precompiled images, which include common deep learning toolset such as NVIDIA CUDA, cuDNN, python, TensorFlow, Keras, etc. I use the Deep Learning AMI (Ubuntu) image. As you progress through the image creation process there are many options. The defaults are mostly okay. But, when you are selecting the istance type make sure to select the type requested above. Create the instance with an existing key pair or create a new key pair if you do not already have one. This key pair is necessary to allow you to SSH into your instance once it is running. Also, if you plan to use Jupyter Notebook with your instance you will need to set the following networking rule to make this possible:
+Log into AWS at https://aws.amazon.com and navigate to Services > Compute > EC2 and click on the Launch Instance button. Select the AMS Marketplace option and search for Deep Learning AMI (or DLAMI). Select on of the precompiled images, which include common deep learning toolset such as NVIDIA CUDA, cuDNN, python, TensorFlow, Keras, etc. I use the Deep Learning AMI (Ubuntu) image. As you progress through the image creation process there are many options. The defaults are mostly okay. But, when you are selecting the instance type make sure to select the type requested above. Also, if you plan to use Jupyter Notebook with your instance you will need to add the following networking rule to make this possible:
 
 type: Custome TCP Rule
 protocol: TCP
 port range: 8888
 source: Anywhere 0.0.0.0/0, ::/0
 
-Once your instance is created you can start and stop it at Services > Computer > EC2 > Instances. Make sure you stop the instance when it is not in use or you will continue to be billed for its resource consumption. 
+When you launch your instance you will be instructed to either launch the instance with an existing key pair or to create a new key pair if you do not already have one. This key pair is necessary to allow you to SSH into your instance once it is running. Don't lose your copy. Once your instance is created you can start and stop it at Services > Computer > EC2 > Instances. Make sure you stop the instance when it is not in use or you will continue to be billed for its resource consumption. 
 
