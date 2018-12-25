@@ -1,3 +1,5 @@
+# Deep Learning in the Cloud - Part 1
+
 # AWS DLAMI (Deep Learning Amazon Machine Image)
 
 ## Set Up Instructions:
