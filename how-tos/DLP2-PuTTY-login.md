@@ -1,6 +1,6 @@
-# Login into an AWS Instance and Launching Jupyter Notebook
+# Deep Learning in the Cloud - Part 2
 
-## SSH into an Instance
+## SSH into an AWS Instance 
 
 If you are working on a Mac running OS X or a computer running Linux, login into your instance requires some shell commands. First, navigate to the directory were your copy of the key pair attached to the instance resides and change the permissions on the file.
 
