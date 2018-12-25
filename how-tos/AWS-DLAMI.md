@@ -1,8 +1,6 @@
 # Deep Learning in the Cloud - Part 1
 
-# AWS DLAMI (Deep Learning Amazon Machine Image)
-
-## Set Up Instructions:
+## AWS DLAMI (Deep Learning Amazon Machine Image) - Set Up Instructions
 
 ### 1) Create an AWS Account
 
