@@ -8,7 +8,7 @@ Go to https://aws.amazon.com to sign up. This account can be linked with an exis
 
 ### 2) Optional: Join AWS Educate
 
-Go to https://aws.amazon.com/education/awseducate to sign up for an educator account to earn free credits to apply to your AWS account. During the application process you must specify a class you plan to use AWS in. If you don’t have a specific class in mind then pick a class for which you could explore the use of AWS. Once your application is approved you will get an email with a promo code that you can enter into your AWS billing console for a $40 credit. Note that the email address you use to sign up for AWS Educate must be your official school email address but you can use a different email address with AWS. 
+Go to https://aws.amazon.com/education/awseducate to sign up for an educator account to earn free credits to apply to your AWS account. During the application process you must specify a class you plan to use AWS in. If you don’t have a specific class in mind, then pick a class for which you could explore the use of AWS. Once your application is approved you will get an email with a promo code that you can enter into your AWS billing console for a $40 credit. Note that the email address you use to sign up for AWS Educate must be your official school email address, but you can use a different email address with AWS. 
 
 ### 3) Request Use of a GPU
 
@@ -16,9 +16,9 @@ Log into Amazon Web Services at https://aws.amazon.com and navigate to Services 
 
 ### 4) Create a New Instance
 
-Log into AWS at https://aws.amazon.com and navigate to Services > Compute > EC2 and click on the Launch Instance button. Select the AMS Marketplace option and search for Deep Learning AMI (or DLAMI). Select on of the precompiled images, which include common deep learning toolset such as NVIDIA CUDA, cuDNN, python, TensorFlow, Keras, etc. I use the Deep Learning AMI (Ubuntu) image. As you progress through the image creation process there are many options. The defaults are mostly okay. But, when you are selecting the instance type make sure to select the type requested above. Also, if you plan to use Jupyter Notebook with your instance you will need to add the following networking rule to make this possible:
+Log into AWS at https://aws.amazon.com and navigate to Services > Compute > EC2 and click on the Launch Instance button. Select the AMS Marketplace option and search for Deep Learning AMI (or DLAMI). Select one of the precompiled images, which include common deep learning toolset such as NVIDIA CUDA, cuDNN, python, TensorFlow, Keras, etc. I use the Deep Learning AMI (Ubuntu) image. As you progress through the image creation process there are many options. The defaults are mostly okay. But, when you are selecting the instance type make sure to select the type requested above. Also, if you plan to use Jupyter Notebook with your instance you will need to add the following networking rule to make this possible:
 
-type: Custome TCP Rule
+type: Custom TCP Rule
 protocol: TCP
 port range: 8888
 source: Anywhere 0.0.0.0/0, ::/0
