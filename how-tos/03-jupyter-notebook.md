@@ -1,4 +1,4 @@
-# Deap Learning in the Cloud - Part 3
+# Deep Learning in the Cloud - Part 3
 
 ## Installing and Running Jupyter Notebook
 
