@@ -27,7 +27,7 @@ A representation of the structure of an ANN specifying the nodes, layers, and co
 A numerical algorithm for optimizing the parameters (weights) of an ANN. Stochastic gradient descent is a variation of this method that relies on randomly sampling the data at each optimization step instead of processing the entire data set. The data processed at each step is called a batch and multiple batches are processed as part of each pass through the entire data set, which is called an epoch. 
 
 ### Back Propagation
-The process of applying gradient descent on a muli-layered ANN by propagating the errors back through the network from outputs to inputs. 
+The process of applying gradient descent on a multi-layered ANN by propagating the errors back through the network from outputs to inputs. 
 
 ### Activation Function
 A function applied to output of a node in an ANN. These functions allow non-linearity to be introduced into the ANN. 
