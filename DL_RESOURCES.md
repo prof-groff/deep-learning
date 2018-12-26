@@ -8,17 +8,17 @@ Amazon Web Services via their Elastic Compute Cloud (EC2) allows users to create
 ## Udacity
 http://www.udacity.com
 
-Udacity is an online training platform for data science, machine learning, software devleopment, and much more. Many classes or modules are available for free. 
+Udacity is an online training platform for data science, machine learning, software devlelopment, and much more. Many classes or modules are available for free. 
 
 ## Kaggle
 http://www.kaggle.com
 
-Kaggle is an online community of data scientists. Users can create and share online Jupyter Notebook or Python scripts, and can run them in the cloud. Community members can also participate in data science competitions.
+Kaggle is an online community of data scientists. Users can create and share online Jupyter Notebook or Python scripts and can run them in the cloud. Community members can also participate in data science competitions.
 
 ## FloydHub
 http://www.floydhub.com
 
-FloydHub is a cloud-base platform for building, training, and deploying deep learning models. There is a free tier with limited capacity.
+FloydHub is a cloud-based platform for building, training, and deploying deep learning models. There is a free tier with limited capacity.
 
 ## Google Cloud
 http://cloud.google.com
@@ -29,13 +29,13 @@ Google Cloud allows you to set up and run computer instances in a similar fashio
 
 http://notebooks.azure.com
 
-Microsoft's Azure service also allows user to create cloud compute instances. But, Azure also offers free online Jupyter Notebooks. This is a great service but has been somewhat resource contrained in the past. 
+Microsoft's Azure service also allows user to create cloud compute instances. But, Azure also offers free online Jupyter Notebooks. This is a great service but has been somewhat resource constrained in the past. 
 
 ## Keras Examples
 
 https://github.com/keras-team/keras/tree/master/examples
 
-Python scripts showing examples of various deep learning models inplemented in Keras including vision models, text models, and generative models. 
+Python scripts showing examples of various deep learning models implemented in Keras including vision models, text models, and generative models. 
 
 ## Online Learning Resources
 
