@@ -12,7 +12,7 @@ Sonnets - Shakespeare's sonnets preprocessed for RNN text generation, originally
 
 Frankenstein - Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley preprocessed for RNN text generation, originally downloaded from http://www.gutenberg.org <br>
 
-Sentiment - uploaded 12/28/18, Sentiment Analysis on Film/TV Reviews, from a portion of Udacity's Deep Learning nanodegree taught by Andrew Trask<br>
+Sentiment - uploaded 12/28/18, Sentiment Analysis on Movie Reviews, from a portion of Udacity's Deep Learning nanodegree taught by Andrew Trask<br>
 
 ## License
 
