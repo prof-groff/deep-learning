@@ -13,4 +13,4 @@ The <code>ipykernel</code> package allows you to change between python2 and pyth
 
 A URL with a token string will be displayed in the terminal. Copy (simply highlighting achieves this) and paste this URL and token into a browser window. If port forwarding is set up correctly (instruction for doing this in PuTTY are given in <code>PuTTY-login.md</code>) Jupyter Notebook running on the remote instance will load in your browser. To do port forwarding on Mac OSX run the following command in the terminal.
 
-<code>ssh -i <AWS_key_name>.pem -N -f -L 8888:localhost:8888 ubuntu@<public_DNS_name_prefix>.amazonaws.com<code>
+<code>ssh -i <AWS_key_name>.pem -N -f -L 8888:localhost:8888 ubuntu@<public_DNS_name_prefix>.amazonaws.com</code>
